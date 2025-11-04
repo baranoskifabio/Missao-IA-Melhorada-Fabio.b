@@ -79,7 +79,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Karim Mostafa Benzema",
-                afirmacao: "Você prefere um atacante que participa da jogada."
+                afirmacao: [
+                 "Você prefere um atacante que participa da jogada.",
+                 "Você opta por um atacante que se envolve na construção.",
+                 "Você escolhe um atacante que contribui na armação."
+                 ]
             },
             {
                 texto: "Robert Lewandowski",
