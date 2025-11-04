@@ -60,7 +60,12 @@ const perguntas = [
             },
             {
                 texto: "Raphael Dias Belloli (Raphinha)",
-                afirmacao: "Você valoriza o trabalho duro e esforço."
+                afirmacao:[
+                "Você valoriza o trabalho duro e esforço.",
+                "Você aprecia a dedicação e persistência.",
+                "Você prioriza o empenho e a resiliência."
+                ]
+
             }
         ]
     },
