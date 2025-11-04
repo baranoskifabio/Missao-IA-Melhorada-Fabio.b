@@ -4,16 +4,17 @@ const caixaAlternativas = document.querySelector(".caixa-alternativas");
 const caixaResultados = document.querySelector(".caixa-resulado");
 const textoResultado = document.querySelector(".texto-resultado");
 
-
-
-
 const perguntas = [
     {
         enunciado: "Quem é o melhor jogador de futebol?",
         alternativas: [
             {
                 texto: "Cristiano Ronaldo dos Santos Aveiro",
-                afirmacao: " Você é uma pessoa ambiciosa e tem dedicação em tudo o que faz."
+                afirmacao:[
+                 "Você é uma pessoa ambiciosa e tem dedicação em tudo o que faz.",
+                 "Você é uma pessoa determinada e busca excelência em cada desafio.",
+                 "Você é uma pessoa visionária e investe esforço total nos seus objetivos."
+                ]
 
             },
             {
