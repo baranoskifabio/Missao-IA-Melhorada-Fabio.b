@@ -34,7 +34,12 @@ const perguntas = [
         alternativas: [ 
             {
                 texto: "Neymar da Silva Santos Júnior",
-                afirmacao: "Você valoriza o impacto e habilidades. "
+                afirmacao:[
+                 "Você valoriza o impacto e habilidades.",
+                 "Você prioriza resultados e competências.",
+                 "Você aprecia influência e maestria."
+                 ]
+
             },
             {
                 texto: "Edson Arantes do Nascimento (Pelé)",
