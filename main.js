@@ -87,7 +87,12 @@ const perguntas = [
             },
             {
                 texto: "Robert Lewandowski",
-                afirmacao: "Você prefere um centroavante matador."
+                afirmacao: [
+                "Você prefere um centroavante matador.",
+                "Você opta por um centroavante letal.",
+                "Você escolhe um centroavante artilheiro."
+            ]
+
             }
         ]
     },
@@ -97,7 +102,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Manuel Peter Neuer",
-                afirmacao: "Você prioriza conquistas e como atuou no futebol."
+                afirmacao: [
+                "Você prioriza conquistas e como atuou no futebol.",
+                "Você valoriza títulos e desempenho em campo.",
+                "Você enfatiza troféus e performance no jogo."
+                ]
             },
             {
                 texto: "Lev Ivanovich Yashin",
