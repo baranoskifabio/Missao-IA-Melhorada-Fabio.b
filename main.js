@@ -110,7 +110,11 @@ const perguntas = [
             },
             {
                 texto: "Lev Ivanovich Yashin",
-                afirmacao: "Você prioriza atuações, qualidade e prêmios individuais."
+                afirmacao: [
+                "Você prioriza atuações, qualidade e prêmios individuais.",
+                "Você valoriza performances, excelência e premiações pessoais.",
+                "Você enfatiza exibições, habilidade e troféus individuais."
+                ]
             }
         ]
     },
