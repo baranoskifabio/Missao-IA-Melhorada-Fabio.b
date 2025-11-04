@@ -43,7 +43,11 @@ const perguntas = [
             },
             {
                 texto: "Edson Arantes do Nascimento (Pelé)",
-                afirmacao: "Você valoriza a história e conquistas."
+                afirmacao:[
+                 "Você valoriza a história e conquistas.",
+                 "Você aprecia o legado e vitórias.",
+                 "Você prioriza o passado e triunfos."
+                 ]
             }
         ]
     },
