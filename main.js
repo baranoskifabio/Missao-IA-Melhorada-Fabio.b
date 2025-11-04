@@ -56,7 +56,12 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Masour Ousmane Dembélé",
-                afirmacao: "Você valoriza a criatividade e companheirismo."
+                afirmacao:[
+                 "Você valoriza a criatividade e companheirismo.",
+                 "Você aprecia a inovação e a camaradagem.",
+                 "Você prioriza a originalidade e a união."
+                 ]
+                 
             },
             {
                 texto: "Raphael Dias Belloli (Raphinha)",
