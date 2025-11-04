@@ -19,7 +19,13 @@ const perguntas = [
             },
             {
                 texto: "Lionel Andrés Messi Cuccittini",
-                afirmacao: "Você valoriza o talento, trabalho duro e nunca desiste."
+                afirmacao:[
+                "Você valoriza o talento, trabalho duro e nunca desiste.",
+                "Você prioriza a habilidade, persistência e segue em frente sempre.",
+                "Você aprecia a competência, esforço contínuo e resiste até vencer."
+                ]
+            
+            
             }
         ]
     },
